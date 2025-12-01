@@ -13,7 +13,7 @@ Pour ce qui est de la faculté de lettres. Elle passe De Douai à Lille en 1887 
 
 ## La place de l'histoire au sein du campus Pont de bois
 
-
+![Texte alternatif](batiment_a_pont_bois.jpg)
 
 ## La place de la médiévale dans le campus pont de bois 
 
