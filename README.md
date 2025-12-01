@@ -4,7 +4,7 @@
 
 L'Université de Lille est découpée en trois campus autonomes jusqu'à une réunification en 2018. Elles étaient autonome depuis 1970.  
 
-![Texte alternatif](univ_lille_campus_polygons_legend_.pdf)
+![Texte alternatif](univ_lille_campus_polygons_legend__pag.jpg)
 
 
 ### Faculté de lettres à Lille 
