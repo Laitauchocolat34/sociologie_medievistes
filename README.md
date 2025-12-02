@@ -29,18 +29,35 @@ Après le départ de la faculté des Lettres, les bâtiments du centre-ville ont
 
 ### La place de l'histoire au sein du campus Pont de bois
 
-![Texte alternatif](batiment_a_pont_bois.jpg)
+Le laboratoire d’histoire IRHIS est situé dans le bâtiment principal (bâtiment A) du campus Pont-de-Bois. Il occupe une partie proche de l’entrée principale, mais au rez-de-chaussée ou plutôt au sous-sol, et bénéficie d’une surface relativement importante au sein du bâtiment. Cet espace est appelé à s’étendre avec la fusion prochaine avec le laboratoire d’histoire antique HALMA. Il est également possible que la localisation du laboratoire évolue au sein du campus dans le futur. 
 
-A noter que le laboratoire est en cours de 
+![Texte alternatif](batiment_a_pont_bois.jpg)
 
 ### La place de la médiévale dans le laboratoire
 
-Une bonne place de médiéviste dans la diréction du laboratoire avec la Présence de Charles Meriaux en tant que directeur. Avec Elise Baillieul en firectrice adjointe. Avec Christopher Fletcher en directeur adjoint. Donc 3 sur quatre. la derniere marie derrien en contemporaine. Pour la gestion des axes : Pôle 1 — Justine Faure, Étienne Hamon Pôle 2 — Delphine Bière, Romy Sanchez Pôle 3 — Marjorie Meiss, Mathieu Vivas Axe transverse — Mathieu Beaud, Tristan Martine. Soit sur 8 il y en a 4. Pour les représentants des doctorants Titulaires : Camille Paccou (contrat doctoral, Histoire médiévale) Éloi Vincendet (allocation régionale, Histoire contemporaine) Suppléants : Hugo Dehongher (histoire de l'art médiéval) Thomas Ruckebusch (histoire contemporaine) Encore une fois la moitié. A noter que le laboratoire est en train de fusioner avec le laboratoire d'histoire antique et les choses sont suceptible de bouger. Pour le conseil du labo : Membres élu·e·s Collège Chercheurs/Enseignants-Chercheurs Laurent Brassart Marc Gil Élodie Lecuppre-Desjardin Sylvain Lesage Sophie Mouquin Pauline Prevost-Marcilhacy Romy Sanchez Jean-Baptiste Santamaria Mélanie Traversier. la c'est assez repréentatif. 
+#### La mandature actuelle
 
-La précédente mendature est différente ou il y a 2 contemporaneiste dans la direction. De oliveira et michoneau. Et une méédieviste dehoux. Pour Axe 1 — Gil Bartholeyns, Manuel Charpy Axe 2 — Anne-Marie Legaré, Chang Ming Peng Axe 3 — Catherine Denys, Hervé Leuwers Axe 4 — Gabriel Galvez-Behar, Élodie Lecuppre-Desjardins. il y en a quand même 3 sur 8. pas mal sur Représentant UFR SHAP : Charles MÉRIAUX (suppléant : Marc GIL) que des médiévistes. Là plutot faible : Membres enseignants-chercheurs élus : Laurent BRASSART - Frédéric CHAPPEY - Carole CHRISTEN - Esther DEHOUX - Étienne HAMON - Jean Martinant de PRÉNEUF - Isabelle PARESYS - Isabelle SURUN - Florence TAMAGNE - Béatrice TOUCHELAY. Pour Membres doctorants élus : Jean D'ANDLAU, Yaël GAGNEPAIN, Mathias PAREYRE, Arthur PINTA pas de docs. Pour les représentant 2 sur 4 : Représentants CNRS : Claire CHATELAIN, Christopher FLETCHER Représentant SCV : Thomas GOLSENNE Représentant Sciences Po-Lille : Philippe DARRIULAT
+Le laboratoire bénéficie d’une forte représentation des médiévistes dans sa direction actuelle (2020-2025). Charles Meriaux en assure la direction, accompagné d’Élise Baillieul, Christopher Fletcher et Marie Derrien. Ainsi, sur les quatre membres de la direction, trois sont médiévistes, la seule représentante de l’histoire contemporaine étant Marie Derrien. Cette prédominance se retrouve également dans la gestion des axes de recherche : Pôle 1 est dirigé par Justine Faure et Étienne Hamon, Pôle 2 par Delphine Bière et Romy Sanchez, Pôle 3 par Marjorie Meiss et Mathieu Vivas, et l’Axe transverse par Mathieu Beaud et Tristan Martine. Sur les huit responsables d’axes, quatre sont médiévistes, soit exactement la moitié.
+
+Chez les représentants des doctorants, la moitié sont également médiévistes : les titulaires sont Camille Paccou et Éloi Vincendet, tandis que les suppléants sont Hugo Dehongher et Thomas Ruckebusch. 
+
+Enfin, pour le conseil du laboratoire, les membres élu·e·s du collège Chercheurs/Enseignants-Chercheurs sont Laurent Brassart, Marc Gil, Élodie Lecuppre-Desjardin, Sylvain Lesage, Sophie Mouquin, Pauline Prevost-Marcilhacy, Romy Sanchez, Jean-Baptiste Santamaria et Mélanie Traversier, ce qui montre une représentation médiévale assez équilibrée et représentative.
 
 
-Les doctorants : 
+#### La précédente mandature
+
+Lors de la précédente mandature (2015-2019), la direction du laboratoire était composée de deux contemporanéistes, Mathieu De Oliveira et Stéphane Michonneau et d’une médiéviste, Esther Dehoux, ce qui montre une représentation médiévale plus faible qu’actuellement. La gestion des axes de recherche comptait également moins de médiévistes : Axe 1 était dirigé par Gil Bartholeyns et Manuel Charpy, Axe 2 par Anne-Marie Legaré et Chang Ming Peng, Axe 3 par Catherine Denys et Hervé Leuwers, et Axe 4 par Gabriel Galvez-Behar et Élodie Lecuppre-Desjardins. Sur les huit responsables, trois étaient médiévistes, ce qui restait toutefois significatif.
+
+Au niveau des représentants de l’UFR SHAP, Charles Meriaux était titulaire et Marc Gil suppléant, tous deux médiévistes, ce qui constituait un point fort pour la médiévistique. En revanche, la représentation dans les membres enseignants-chercheurs élus était plus faible : Laurent Brassart, Frédéric Chappey, Carole Christen, Esther Dehoux, Étienne Hamon, Jean Martinant de Préneuf, Isabelle Paresys, Isabelle Surun, Florence Tamagne et Béatrice Touchelay, avec une proportion limitée de médiévistes.
+
+Chez les doctorants élus, Jean d’Andlau, Yaël Gagnepain, Mathias Pareyre et Arthur Pinta étaient représentés, mais aucun n’était médiéviste. Enfin, parmi les représentants institutionnels, on compte deux médiévistes sur quatre : Claire Chatelain et Christopher Fletcher pour le CNRS, Thomas Golsenne pour le SCV, et Philippe Darriulat pour Sciences Po Lille.
+
+Globalement, la mandature précédente montre une représentation médiévale présente mais moins marquée qu’actuellement, avec une concentration surtout au niveau des axes et de l’UFR, tandis que la présence dans les élus enseignants-chercheurs et doctorants restait limitée.
+
+Je n'ai pas eu des informations sur les mandatures précédentes pour le moment. 
+
+
+#### Les doctorants 
 Salle de travail projet synergia mais va disparaitre à cause de la fusion et par manque d'usage. Présente frequence d'un membre mais pas du reste. Non présence liée à un cas de harcellement non au sein de ce local. 
 
 
@@ -51,7 +68,7 @@ CNRS 1/2
 Titulaires : 12/53
 
 
-52/171
+52/171 docteurs
 
 
 
