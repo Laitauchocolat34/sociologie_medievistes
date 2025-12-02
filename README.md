@@ -2,14 +2,23 @@
 
 ### L'université de Lille
 
-L'Université de Lille est découpée en trois campus autonomes jusqu'à une réunification en 2018. Elles étaient autonome depuis 1970.  
+- 1559 : La future Université de Lille ets crée à Douai
+  
+- 1886 : Transfert à Lille
+  
+- 1970 : Division de l'Université en trois entitées (Lille 1, 2 et 3) en 1970
+
+- 2022 : Fusion des trois universités pour la création de l'Université de Lille
 
 ![Texte alternatif](univ_lille_campus_polygons_legend__pag.jpg)
 
+Il existe également une université privée catholique crée en 1875. Elle est implentée au nord de Lille et connait une certaine croissance ces derniers années. 
+
+![Texte alternatif](carte-universite-catholique_de_lille_page-.jpg)
 
 ### Faculté de lettres à Lille 
 
-Pour ce qui est de la faculté de lettres. Elle passe De Douai à Lille en 1887 puis du centre de Lille à Villeneuve d'Ascq en 1974. Le choix est réalisé car less locaux étaient trop petits. A notée que l'université catholique quand à elle possède de plus en plus de terrain au nord de Lille. Le déplacement s’inscrivait dans un mouvement plus large de « campus à l’américaine » dans l’enseignement supérieur français des années 60–70, cherchant à regrouper les universités sur de grands sites périphériques. A noté aussi que les locaux ont été récupéré par sciences po Lille. Peut aussi etre lié à Mai 68 et la volonté de l'état d'éclaté le fac de centre ville. 
+En 1887 la fac de lettre s'installe dans le centre de Lille ou elle gardera cette place jusqu'en 1974 ou elle sera placée à Villeneuve d'Ascq. Le choix est réalisé car les locaux étaient trop petits. Le déplacement s’inscrivait dans un mouvement plus large de « campus à l’américaine » dans l’enseignement supérieur français des années 60–70, cherchant à regrouper les universités sur de grands sites périphériques. A noté aussi que les locaux ont été récupéré par sciences po Lille. Peut aussi etre lié à Mai 68 et la volonté de l'état d'éclaté le fac de centre ville. mais la raison plus officielle se sont des locaux plus grand et neuf pour accueil plus de monde. A noté qu'en comapraison l'université catholique de Lille connait une grande extension dans le tissu urbain lillois au nord de la ville ce qui contredit la politique ouvertement affichée du manque de place. 
 
 
 ### La place de l'histoire au sein du campus Pont de bois
@@ -34,10 +43,7 @@ CNRS 1/2
 Titulaires : 12/53
 
 
-
-
-
-
+52/171
 
 
 
