@@ -1,6 +1,4 @@
-# sociologie_medievistes
-
-### L'université de Lille
+# I. L'université de Lille
 
 - 1559 : La future Université de Lille ets crée à Douai
   
@@ -16,7 +14,7 @@ Il existe également une université privée catholique crée en 1875. Elle est 
 
 ![Texte alternatif](carte-universite-catholique_de_lille_page-.jpg)
 
-### Faculté de lettres à Lille 
+# II. Faculté de lettres à Lille 
 
 En 1887, la faculté des Lettres s’installe dans le centre de Lille, où elle restera implantée jusqu’en 1974, date de son transfert à Villeneuve-d’Ascq. Ce choix s’explique d’abord par l’exiguïté des locaux historiques, devenus insuffisants pour accueillir une population étudiante en forte croissance.
 
@@ -27,15 +25,15 @@ Il est parfois évoqué que les événements de Mai 68 ont renforcé la volonté
 Après le départ de la faculté des Lettres, les bâtiments du centre-ville ont notamment été réinvestis par Sciences Po Lille. À noter que, dans le même temps, l’Université catholique de Lille a poursuivi une importante extension au nord de la ville, en plein tissu urbain. Ce développement semble contredire, du moins en apparence, le discours de l’État sur le manque d’espace disponible en centre-ville pour les universités publiques
 
 
-### La place de l'histoire au sein du campus Pont de bois
+# III. La place de l'histoire au sein du campus Pont de bois
 
 Le laboratoire d’histoire IRHIS est situé dans le bâtiment principal (bâtiment A) du campus Pont-de-Bois. Il occupe une partie proche de l’entrée principale, mais au rez-de-chaussée ou plutôt au sous-sol, et bénéficie d’une surface relativement importante au sein du bâtiment. Cet espace est appelé à s’étendre avec la fusion prochaine avec le laboratoire d’histoire antique HALMA. Il est également possible que la localisation du laboratoire évolue au sein du campus dans le futur. 
 
 ![Texte alternatif](batiment_a_pont_bois.jpg)
 
-### La place de la médiévale dans le laboratoire
+## IV. La place de la médiévale dans le laboratoire
 
-#### La mandature actuelle
+### La mandature actuelle
 
 Le laboratoire bénéficie d’une forte représentation des médiévistes dans sa direction actuelle (2020-2025). Charles Meriaux en assure la direction, accompagné d’Élise Baillieul, Christopher Fletcher et Marie Derrien. Ainsi, sur les quatre membres de la direction, trois sont médiévistes, la seule représentante de l’histoire contemporaine étant Marie Derrien. Cette prédominance se retrouve également dans la gestion des axes de recherche : Pôle 1 est dirigé par Justine Faure et Étienne Hamon, Pôle 2 par Delphine Bière et Romy Sanchez, Pôle 3 par Marjorie Meiss et Mathieu Vivas, et l’Axe transverse par Mathieu Beaud et Tristan Martine. Sur les huit responsables d’axes, quatre sont médiévistes, soit exactement la moitié.
 
@@ -44,7 +42,7 @@ Chez les représentants des doctorants, la moitié sont également médiévistes
 Enfin, pour le conseil du laboratoire, les membres élu·e·s du collège Chercheurs/Enseignants-Chercheurs sont Laurent Brassart, Marc Gil, Élodie Lecuppre-Desjardin, Sylvain Lesage, Sophie Mouquin, Pauline Prevost-Marcilhacy, Romy Sanchez, Jean-Baptiste Santamaria et Mélanie Traversier, ce qui montre une représentation médiévale assez équilibrée et représentative.
 
 
-#### La précédente mandature
+### La précédente mandature
 
 Lors de la précédente mandature (2015-2019), la direction du laboratoire était composée de deux contemporanéistes, Mathieu De Oliveira et Stéphane Michonneau et d’une médiéviste, Esther Dehoux, ce qui montre une représentation médiévale plus faible qu’actuellement. La gestion des axes de recherche comptait également moins de médiévistes : Axe 1 était dirigé par Gil Bartholeyns et Manuel Charpy, Axe 2 par Anne-Marie Legaré et Chang Ming Peng, Axe 3 par Catherine Denys et Hervé Leuwers, et Axe 4 par Gabriel Galvez-Behar et Élodie Lecuppre-Desjardins. Sur les huit responsables, trois étaient médiévistes, ce qui restait toutefois significatif.
 
@@ -57,7 +55,7 @@ Globalement, la mandature précédente montre une représentation médiévale pr
 Je n'ai pas eu des informations sur les mandatures précédentes pour le moment. 
 
 
-#### Les doctorants 
+### Les doctorants 
 Salle de travail projet synergia mais va disparaitre à cause de la fusion et par manque d'usage. Présente frequence d'un membre mais pas du reste. Non présence liée à un cas de harcellement non au sein de ce local. 
 
 
