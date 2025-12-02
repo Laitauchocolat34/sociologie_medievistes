@@ -18,7 +18,13 @@ Il existe également une université privée catholique crée en 1875. Elle est 
 
 ### Faculté de lettres à Lille 
 
-En 1887 la fac de lettre s'installe dans le centre de Lille ou elle gardera cette place jusqu'en 1974 ou elle sera placée à Villeneuve d'Ascq. Le choix est réalisé car les locaux étaient trop petits. Le déplacement s’inscrivait dans un mouvement plus large de « campus à l’américaine » dans l’enseignement supérieur français des années 60–70, cherchant à regrouper les universités sur de grands sites périphériques. A noté aussi que les locaux ont été récupéré par sciences po Lille. Peut aussi etre lié à Mai 68 et la volonté de l'état d'éclaté le fac de centre ville. mais la raison plus officielle se sont des locaux plus grand et neuf pour accueil plus de monde. A noté qu'en comapraison l'université catholique de Lille connait une grande extension dans le tissu urbain lillois au nord de la ville ce qui contredit la politique ouvertement affichée du manque de place. 
+En 1887, la faculté des Lettres s’installe dans le centre de Lille, où elle restera implantée jusqu’en 1974, date de son transfert à Villeneuve-d’Ascq. Ce choix s’explique d’abord par l’exiguïté des locaux historiques, devenus insuffisants pour accueillir une population étudiante en forte croissance.
+
+Ce déplacement s’inscrit également dans un mouvement national plus large, celui des « campus à l’américaine », qui marque l’enseignement supérieur français dans les années 1960–1970. L’objectif était de regrouper les universités sur de vastes sites en périphérie afin de favoriser l’extension des infrastructures, la modernisation des équipements et une meilleure organisation des disciplines.
+
+Il est parfois évoqué que les événements de Mai 68 ont renforcé la volonté de l’État d’« éclater » les facultés du centre-ville pour mieux gérer les flux étudiants et limiter les concentrations considérées comme sources potentielles de contestation. Toutefois, la raison officielle et principale reste la nécessité de locaux plus vastes, plus modernes et capables d’accueillir davantage d’étudiants.
+
+Après le départ de la faculté des Lettres, les bâtiments du centre-ville ont notamment été réinvestis par Sciences Po Lille. À noter que, dans le même temps, l’Université catholique de Lille a poursuivi une importante extension au nord de la ville, en plein tissu urbain. Ce développement semble contredire, du moins en apparence, le discours de l’État sur le manque d’espace disponible en centre-ville pour les universités publiques
 
 
 ### La place de l'histoire au sein du campus Pont de bois
