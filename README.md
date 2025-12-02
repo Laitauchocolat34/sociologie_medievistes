@@ -25,6 +25,8 @@ En 1887 la fac de lettre s'installe dans le centre de Lille ou elle gardera cett
 
 ![Texte alternatif](batiment_a_pont_bois.jpg)
 
+A noter que le laboratoire est en cours de 
+
 ### La place de la médiévale dans le laboratoire
 
 Une bonne place de médiéviste dans la diréction du laboratoire avec la Présence de Charles Meriaux en tant que directeur. Avec Elise Baillieul en firectrice adjointe. Avec Christopher Fletcher en directeur adjoint. Donc 3 sur quatre. la derniere marie derrien en contemporaine. Pour la gestion des axes : Pôle 1 — Justine Faure, Étienne Hamon Pôle 2 — Delphine Bière, Romy Sanchez Pôle 3 — Marjorie Meiss, Mathieu Vivas Axe transverse — Mathieu Beaud, Tristan Martine. Soit sur 8 il y en a 4. Pour les représentants des doctorants Titulaires : Camille Paccou (contrat doctoral, Histoire médiévale) Éloi Vincendet (allocation régionale, Histoire contemporaine) Suppléants : Hugo Dehongher (histoire de l'art médiéval) Thomas Ruckebusch (histoire contemporaine) Encore une fois la moitié. A noter que le laboratoire est en train de fusioner avec le laboratoire d'histoire antique et les choses sont suceptible de bouger. Pour le conseil du labo : Membres élu·e·s Collège Chercheurs/Enseignants-Chercheurs Laurent Brassart Marc Gil Élodie Lecuppre-Desjardin Sylvain Lesage Sophie Mouquin Pauline Prevost-Marcilhacy Romy Sanchez Jean-Baptiste Santamaria Mélanie Traversier. la c'est assez repréentatif. 
