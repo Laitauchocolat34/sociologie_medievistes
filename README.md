@@ -69,6 +69,11 @@ Les doctorants possèdent une salle commune qui se trouve dans le couloir du lab
 ## La bibliothèque George lefebvre 
 
 
+## Enseignement
+
+A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il est toutefois moins possible de s'inscrire à des options en histoire de l'art et arhcéologie qu'avant. 
+
+Pour ce qui est du master. Il s'agir d'un master trans-période. Il est possible de faire les trois périodes historique en histoire pure. Il y a des cours en commun de méthodologie et des cours specifiques à chaque période. En général il y a deux séminaires différents par périodes avec des thématiques différentes. Il ne s'agit donc pas d'un master 
 
 
 
