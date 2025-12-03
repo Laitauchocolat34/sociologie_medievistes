@@ -71,9 +71,25 @@ Les doctorants possèdent une salle commune qui se trouve dans le couloir du lab
 
 ## Enseignement
 
-A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il est toutefois moins possible de s'inscrire à des options en histoire de l'art et arhcéologie qu'avant. 
+A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il y a des ouvertures à l'art et à l'archeo médiéviévale. Il y a en L1 un cours (TD et CM) de Haut-Moyen äge (V-XIe) au second semestre. En ouverture disciplianire possible de faire (UE2)
+Les Carolingiens : politique et culture au service de Dieu (VIIIE-IXE siècles) 
+Les objets du Moyen age dans les musée
 
-Pour ce qui est du master. Il s'agir d'un master trans-période. Il est possible de faire les trois périodes historique en histoire pure. Il y a des cours en commun de méthodologie et des cours specifiques à chaque période. En général il y a deux séminaires différents par périodes avec des thématiques différentes. Il ne s'agit donc pas d'un master 
+en option lecture et écriture de l'histoire (UE3) :
+Femmes et pouvoir au Moyen Âge (Ve-XVe siècle)
+Les populations médiévales et leur environement (V-XIIe)
+Les royaumes du Nord au haut Moyen Âge 
+Matrimoine et la richesse des femmes (XIlle-début XVIe siècle) 
+
+En deuxieme année au semestre il y a un CM et TD de Bas Moyen age L'Europe médiévale : XIIE-XVE siècle. En ouverture disciplinaire posible de faire Archéologie, littérarure médiévale, Contacts et conflits en Méditerrannée, Vle-XIlle siècle  (ue2). En approfondissement en histoire (ue3) : Les images au Moyen Âge et Manger et boire au Moyen Âge
+
+En L3  possibilité entre 2 cm de médiévale "eglise et pouvoir en france et en germanie au moyen age central(ix-xiie) ou Temps mesuré, temps pensé, temps vécu à la fin du Moyen Âge (XIVe-XVe siècles) 
+; POssibilité en outil technique recherche en historie paleographie et sources du haut moyen age. En approffondissement en histoire possible de faire 
+
+En L3 2e semestre possible de faire 
+
+
+Pour ce qui est du master. Il s'agir d'un master trans-période. Il est possible de faire les trois périodes historique en histoire pure. Il y a des cours en commun de méthodologie et des cours specifiques à chaque période. En général il y a deux séminaires différents par périodes avec des thématiques différentes. Il ne s'agit donc pas d'un master. Posible de faire Temps et espaces du pouvoir en Europe du NordOuest et Histoire culturelle et religieuse, Ve-XIIIe siècle en CM. En methodo possible paleo ou latin médiéval (au choix) et initition à l'archivistique (obligatoire); au deuxièeme semttre de m1 on leneve larchivistique médiévale mais ajout d'une option d'arvheo qui compte de la médiévvale toujours au choix. En M2 S1 toujours CM et toujours outil de recherche 1 seul choix. En M2 S4 plus que le séminaire de médiévale. A noter que sur les quatres années il y a un séminaire d'histoire européenne en français et en anglais qui peut porter de temps en temps sur la médiévale. 
 
 
 
