@@ -31,7 +31,7 @@ Le laboratoire d’histoire IRHIS est situé dans le bâtiment principal (bâtim
 
 ![Texte alternatif](batiment_a_pont_bois.jpg)
 
-Je manque d'informations pour pouvoir comparer le cursus d'histoire aux autres cursus du campus. 
+Il faut encore que je creuse pour essayer de trouver des différences entre les départements du campus.
 
 # IV. La place de la médiévale dans le laboratoire
 
