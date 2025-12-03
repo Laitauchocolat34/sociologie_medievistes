@@ -23,6 +23,7 @@ Il existe également une université privée catholique, fondée en 1875, implan
 
 A la connaissance il y a trois facultés. La Faculté des Humanités, Faculté des Langues, Cultures et Sociétés, Faculté de Psychologie et des Sciences de l'Éducation et de la Formation. après il y a des facultés multi cite donc il faut faire attention. Dans la faculté des humanités on retrouve les département d'Arts, d'Histoire, d'Histoire de l'art et Archéologie, de Langues et cultures antiques, de Lettres modernes, de Philosophie, de Sciences du langage. Le département d'histoire et histoire de l'art se trouve ici :
 
+![Texte alternatif](ufr_histoire-modified.jpg)
 
 Ensuite un découpage a lieu entre Antiquité et le reste des périodes pour les labo mais ils sont voués à fusionner dans les mois à venir. HALMA et IRHIS. Il y a l'histoire de l'art et l'archéo dedan bien ur. L'histoire médiévale se fait donc à l'IRHIS même s'il est possible d'en faire dans le laboratoire STL — « Savoirs, Textes, Langage »  et ALITHILA — « Analyses littéraires et histoire de la langue »  de manière indirecte. 
 
