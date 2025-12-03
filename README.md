@@ -88,11 +88,9 @@ En L3  possibilité entre 2 cm de médiévale "eglise et pouvoir en france et en
 
 En L3 2e semestre possible de faire 
 
+### Master 
 
-Pour ce qui est du master. Il s'agir d'un master trans-période. Il est possible de faire les trois périodes historique en histoire pure. Il y a des cours en commun de méthodologie et des cours specifiques à chaque période. En général il y a deux séminaires différents par périodes avec des thématiques différentes. Il ne s'agit donc pas d'un master. Posible de faire Temps et espaces du pouvoir en Europe du NordOuest et Histoire culturelle et religieuse, Ve-XIIIe siècle en CM. En methodo possible paleo ou latin médiéval (au choix) et initition à l'archivistique (obligatoire); au deuxièeme semttre de m1 on leneve larchivistique médiévale mais ajout d'une option d'arvheo qui compte de la médiévvale toujours au choix. En M2 S1 toujours CM et toujours outil de recherche 1 seul choix. En M2 S4 plus que le séminaire de médiévale. A noter que sur les quatres années il y a un séminaire d'histoire européenne en français et en anglais qui peut porter de temps en temps sur la médiévale. 
-
-
-
+Le master est un parcours trans-période permettant d’étudier les trois grandes périodes historiques du laboratoire, avec des enseignements communs et d’autres spécifiques. En général, deux séminaires différents sont proposés par période ; pour la médiévale, il s’agit actuellement de « Temps et espaces du pouvoir en Europe du Nord-Ouest » (Bas Moyen Âge) et de « Histoire culturelle et religieuse, Ve-XIIIe siècle ». En M1 S1, les étudiants choisissent une option d’outils de la recherche (paléographie ou latin médiéval), complétée par une initiation obligatoire à l’archivistique. Au M1 S2, l’archivistique disparaît et une nouvelle option apparaît : l’archéologie (incluant de la médiévale), tout en conservant le choix entre paléographie et latin médiéval, mais toujours pour un seul enseignement à inscrire. En M2 S1, les cours magistraux sont maintenus et un unique outil de la recherche doit être sélectionné, tandis qu’en M2 S2 seul le séminaire de médiévale est conservé. Enfin, sur l’ensemble des deux années, un séminaire d’histoire européenne, dispensé en français et en anglais, est proposé et aborde ponctuellement des thématiques médiévales.
 
 
 
