@@ -71,17 +71,11 @@ Les doctorants possèdent une salle commune qui se trouve dans le couloir du lab
 
 ## Enseignement
 
-A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il y a des ouvertures à l'art et à l'archeo médiéviévale. Il y a en L1 un cours (TD et CM) de Haut-Moyen äge (V-XIe) au second semestre. En ouverture disciplianire possible de faire (UE2)
-Les Carolingiens : politique et culture au service de Dieu (VIIIE-IXE siècles) 
-Les objets du Moyen age dans les musée
+A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il y a des ouvertures à l'art et à l'archeo médiéviévale. 
 
-en option lecture et écriture de l'histoire (UE3) :
-Femmes et pouvoir au Moyen Âge (Ve-XVe siècle)
-Les populations médiévales et leur environement (V-XIIe)
-Les royaumes du Nord au haut Moyen Âge 
-Matrimoine et la richesse des femmes (XIlle-début XVIe siècle) 
+En L1, un cours de Haut Moyen Âge (Vᵉ–XIᵉ siècle), comprenant un CM et un TD, est proposé au second semestre ; il relève du bloc 1, « Interpréter le matériau historique en fonction des représentations de ceux qui l’ont produit », ainsi que du bloc 2, « Exploiter des sources historiques et des productions scientifiques ». Dans le bloc 4, « Construire et valoriser sa formation en histoire », le sous-bloc 3 consacré à la lecture et à l’écriture de l’histoire offre plusieurs enseignements : Femmes et pouvoir au Moyen Âge (Vᵉ–XVᵉ siècle), Les populations médiévales et leur environnement (Vᵉ–XIIᵉ siècle), Les royaumes du Nord au Haut Moyen Âge et Matrimoine et richesse des femmes (XIIIᵉ – début XVIᵉ siècle). Le sous-bloc 2, intitulé « Ouverture pluridisciplinaire », propose notamment Les Carolingiens : politique et culture au service de Dieu (VIIIᵉ–IXᵉ siècles) et Les objets du Moyen Âge dans les musées.
 
-En deuxieme année au semestre il y a un CM et TD de Bas Moyen age L'Europe médiévale : XIIE-XVE siècle. En ouverture disciplinaire posible de faire Archéologie, littérarure médiévale, Contacts et conflits en Méditerrannée, Vle-XIlle siècle  (ue2). En approfondissement en histoire (ue3) : Les images au Moyen Âge et Manger et boire au Moyen Âge
+En L2 au premier semestre il y a un CM et TD de Bas Moyen age L'Europe médiévale : XIIE-XVE siècle. En ouverture disciplinaire posible de faire Archéologie, littérarure médiévale, Contacts et conflits en Méditerrannée, Vle-XIlle siècle  (ue2). En approfondissement en histoire (ue3) : Les images au Moyen Âge et Manger et boire au Moyen Âge
 
 En L3  possibilité entre 2 cm de médiévale "eglise et pouvoir en france et en germanie au moyen age central(ix-xiie) ou Temps mesuré, temps pensé, temps vécu à la fin du Moyen Âge (XIVe-XVe siècles) 
 ; POssibilité en outil technique recherche en historie paleographie et sources du haut moyen age. En approffondissement en histoire possible de faire 
