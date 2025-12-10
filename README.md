@@ -77,11 +77,7 @@ En L1, un cours de Haut Moyen Âge (Vᵉ–XIᵉ siècle), comprenant un CM et u
 
 En L2, au premier semestre, un CM et un TD de Bas Moyen Âge intitulé « L’Europe médiévale : XIIᵉ–XVᵉ siècle » sont proposés dans le bloc 1, « Interpréter le matériau historique en fonction des représentations de ceux qui l’ont produit », ainsi que dans le bloc 2, « Exploiter des sources historiques et des productions scientifiques ». Dans le bloc 3, « Exprimer et transmettre un contenu historique à l’écrit et à l’oral », le sous-bloc 1 consacré à la pratique de l’expression écrite comprend un cours intitulé « Pratique de l’écrit – Histoire médiévale ». Dans le bloc 4, « Construire et valoriser sa formation en histoire », le sous-bloc 2 Ouverture pluridisciplinaire propose Littérature médiévale, Contacts et conflits en Méditerranée (VIᵉ–XIIIᵉ siècle) et Archéologie médiévale. Le sous-bloc 3, dédié à l’approfondissement en histoire, inclut quant à lui les cours Les images au Moyen Âge et Manger et boire au Moyen Âge.
 
-
-En L3  possibilité entre 2 cm de médiévale "eglise et pouvoir en france et en germanie au moyen age central(ix-xiie) ou Temps mesuré, temps pensé, temps vécu à la fin du Moyen Âge (XIVe-XVe siècles) 
-; POssibilité en outil technique recherche en historie paleographie et sources du haut moyen age. En approffondissement en histoire possible de faire 
-
-En L3 2e semestre possible de faire 
+En Licence 3, les étudiants doivent suivre les quatre périodes historiques de l’année en CM et TD, mais peuvent choisir entre quatre thèmes spécifiques pour la période médiévale : « Église et pouvoir en France et en Germanie au Moyen Âge central (IXᵉ–XIIᵉ siècles) », « Temps mesuré, temps pensé, temps vécu à la fin du Moyen Âge (XIVᵉ–XVᵉ siècles) », « La Flandre médiévale » et « Justice de Dieu et justices des hommes (Vᵉ–XVᵉ siècle) ». Comme dans les autres années, le CM relève du bloc « Interpréter le matériau historique en fonction des représentations de ceux qui l’ont produit », tandis que le TD appartient au bloc 3, « Exprimer et transmettre un contenu historique à l’écrit et à l’oral ». Dans le bloc 2, « Exploiter des sources historiques et des productions scientifiques », les étudiants peuvent également suivre Paléographie médiévale et Sources du Haut Moyen Âge. Enfin, le bloc 3 propose dans son sous-bloc 2 Littérature médiévale et Le Moyen Âge dans les arts du XIXᵉ siècle, et dans son sous-bloc 3 les cours « Femmes et pouvoir (XIIIᵉ–XVᵉ siècle) » et « Les cours princières au Moyen Âge ».
 
 ### Master 
 
