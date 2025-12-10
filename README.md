@@ -68,6 +68,11 @@ Les doctorants possèdent une salle commune qui se trouve dans le couloir du lab
 
 ## La bibliothèque George lefebvre 
 
+Depuis, des collections se sont développées autour de thématiques plus spécifiques au laboratoire grâce à des crédits provenant de divers contrats obtenus par des enseignants-chercheurs du laboratoire (IUF, ANR…) ou par la bibliothèque (CNL, CollEx,…) comme le Haut Moyen Âge, la Première Guerre mondiale, l’Histoire des femme, les Cultures visuelles, la Mode…
+
+La bibliothèque possède également des fonds plus spécifiques confiés soit par des institutions, soit par des enseignants-chercheurs comme le Fonds de la Société industrielle du Nord, le Fonds du Théâtre Populaire des Flandres, les Fonds Pierre Deyon, Emmanuel Chadeau, Alain Derville et plus récemment le Fonds Marc de Ferrière sur l’histoire industrielle ou le fonds Nicole Reynaud sur les enluminures.
+
+Deux collections de la bibliothèque ont obtenu le label CollEx, collection d’excellence : les fonds d’Histoire médiévale et d’Histoire économique, industrielle et des sciences.
 
 ## Enseignement
 
