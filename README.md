@@ -62,9 +62,9 @@ Je n'ai pas eu des informations sur les mandatures précédentes pour le moment.
 
 ## Les titulaires 
 
-Dan le labo Hartis. Il y a 3 titulaires CNRS dont 1 médiéviste soit 33% de médiéviste. Emerite 3/12. permanent 12/78
+Dan le labo Hartis. Il y a 3 titulaires CNRS dont 1 médiéviste soit 33% de médiéviste. Emerite 3/12 soit %. permanent 12/78 soit %. Je n'ai pas infos sur les honoraires. 
 
-Il y a 12 médiévistes parmis les 53 titulaires ce qui fait 22%. Pour ce qui est des émérite. Sur les membres honoraires 9 sur 19 soit 47%. CNRS 1/2 soit 50%
+Dans l'ancine labo avant la fuion. Il y a 12 médiévistes parmis les 53 titulaires ce qui fait 22%. Pour ce qui est des émérite il y en a 4/10. Pour les membres honoraires 9 sur 19 soit 47%. pour les postes CNRS 1/2 soit 50%
 
 
 ## Les doctorants 
