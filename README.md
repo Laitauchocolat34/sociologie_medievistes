@@ -35,7 +35,11 @@ Il faut encore que je creuse pour essayer de trouver des différences entre les 
 
 # IV. La place de la médiévale dans le laboratoire
 
-## La mandature actuelle
+## La mandature 2026-2030
+
+La mandature actuelle du nouveau laboratoire HARTIS se caractérise par une place toujours importante accordée aux études médiévales. La direction est assurée par Charles Mériaux et assisté de Sandrine Huber (antiquisante) en tant que directrice adjointe. Cette importance se reflète également dans la composition des responsables de pôles scientifiques, puisque quatre médiévistes figurent parmi les dix responsables. Les pôles sont répartis entre le pôle 1 « Création, transmission, savoir », dirigé par Jean-François Condette et Caroline Husquin, le pôle 2 « Normes, crises, transitions », sous la responsabilité de Frédérique Blaizot et Élodie Lecuppre-Desjardin, et le pôle 3 « Matérialité – immatérialité », animé par Sylvie Donnat et Mathieu Vivas. À ces pôles s’ajoutent deux pôles transversaux : « Humanités numériques », coordonné par Mathieu Beaud et Alexis Duvaut-Robine (SRA-DRAC Hauts-de-France), et « Les Antiquités et leurs réceptions. Pratiques, interprétations et interactions », dirigé par Charles Delattre et Chang Ming Peng. L’ensemble confirme le poids des médiévistes au sein de la gouvernance scientifique du laboratoire, même si celui-ci étant issu d’une fusion récente, les données disponibles demeurent encore partielles.
+
+## La mandature 2020-2025
 
 Le laboratoire bénéficie d’une forte représentation des médiévistes dans sa direction actuelle (2020-2025). Charles Meriaux en assure la direction, accompagné d’Élise Baillieul, Christopher Fletcher et Marie Derrien. Ainsi, sur les quatre membres de la direction, trois sont médiévistes, la seule représentante de l’histoire contemporaine étant Marie Derrien. Cette prédominance se retrouve également dans la gestion des axes de recherche : Pôle 1 est dirigé par Justine Faure et Étienne Hamon, Pôle 2 par Delphine Bière et Romy Sanchez, Pôle 3 par Marjorie Meiss et Mathieu Vivas, et l’Axe transverse par Mathieu Beaud et Tristan Martine. Sur les huit responsables d’axes, quatre sont médiévistes, soit exactement la moitié.
 
@@ -44,9 +48,9 @@ Chez les représentants des doctorants, la moitié sont également médiévistes
 Enfin, pour le conseil du laboratoire, les membres élu·e·s du collège Chercheurs/Enseignants-Chercheurs sont Laurent Brassart, Marc Gil, Élodie Lecuppre-Desjardin, Sylvain Lesage, Sophie Mouquin, Pauline Prevost-Marcilhacy, Romy Sanchez, Jean-Baptiste Santamaria et Mélanie Traversier, ce qui montre une représentation médiévale assez équilibrée et représentative.
 
 
-## La précédente mandature
+## La mandature 2015-2019
 
-Lors de la précédente mandature (2015-2019), la direction du laboratoire était composée de deux contemporanéistes, Mathieu De Oliveira et Stéphane Michonneau et d’une médiéviste, Esther Dehoux, ce qui montre une représentation médiévale plus faible qu’actuellement. La gestion des axes de recherche comptait également moins de médiévistes : Axe 1 était dirigé par Gil Bartholeyns et Manuel Charpy, Axe 2 par Anne-Marie Legaré et Chang Ming Peng, Axe 3 par Catherine Denys et Hervé Leuwers, et Axe 4 par Gabriel Galvez-Behar et Élodie Lecuppre-Desjardins. Sur les huit responsables, trois étaient médiévistes, ce qui restait toutefois significatif.
+Lors de la précédente mandature , la direction du laboratoire était composée de deux contemporanéistes, Mathieu De Oliveira et Stéphane Michonneau et d’une médiéviste, Esther Dehoux, ce qui montre une représentation médiévale plus faible qu’actuellement. La gestion des axes de recherche comptait également moins de médiévistes : Axe 1 était dirigé par Gil Bartholeyns et Manuel Charpy, Axe 2 par Anne-Marie Legaré et Chang Ming Peng, Axe 3 par Catherine Denys et Hervé Leuwers, et Axe 4 par Gabriel Galvez-Behar et Élodie Lecuppre-Desjardins. Sur les huit responsables, trois étaient médiévistes, ce qui restait toutefois significatif.
 
 Au niveau des représentants de l’UFR SHAP, Charles Meriaux était titulaire et Marc Gil suppléant, tous deux médiévistes, ce qui constituait un point fort pour la médiévistique. En revanche, la représentation dans les membres enseignants-chercheurs élus était plus faible : Laurent Brassart, Frédéric Chappey, Carole Christen, Esther Dehoux, Étienne Hamon, Jean Martinant de Préneuf, Isabelle Paresys, Isabelle Surun, Florence Tamagne et Béatrice Touchelay, avec une proportion limitée de médiévistes.
 
@@ -58,10 +62,17 @@ Je n'ai pas eu des informations sur les mandatures précédentes pour le moment.
 
 ## Les titulaires 
 
-Il y a 53 médiévistes parmis les titulaires 12 ce qui fait 22%. Pour ce qui est des émérite. Sur les membres honoraires 9 sur 19 soit 47%. CNRS 1/2 soit 50%
+Dan le labo Hartis. Il y a 3 titulaires CNRS dont 1 médiéviste soit 33% de médiéviste. Emerite 3/12. permanent 12/78
+
+Il y a 12 médiévistes parmis les 53 titulaires ce qui fait 22%. Pour ce qui est des émérite. Sur les membres honoraires 9 sur 19 soit 47%. CNRS 1/2 soit 50%
 
 
 ## Les doctorants 
+
+
+Pour les post-doctorant, il y en a 5 en tout dont 3 médiéviste ce qui donne 60 % de représentation. En terme de doctorant / en ater 3/15. 
+
+
 Il y a actuellement 13 doctorants en histoire médiévale à Lille sur les 65 doctorants ce qui représente 20% des doctorants. Depuis 206 il y a eu 171 docteur au sein du laboratoire et sur ce pool 52 médiéviste ce qui correspond à 30%. Pour ce qui est des post-doc il y a 1 médiéviste sur les 3 ce qui fait 33%. Aucun médiéviste n'est présent en co-direction. 
 
 Les doctorants possèdent une salle commune qui se trouve dans le couloir du laboratoire. (Je suis en train de calculer le taux de présence des médiévistes par rapport au reste). Il existe aussi une salle de travaille specifique pour les médiévisstes seul, la salle synergia dan le couloir du laboratoire. Elle est reservé aux médiévistes du projet Sinergia. Elle est occupé que un seul doctorant principalement. Au début de l'année 2024 elle était beaucoup plus utilisée mais il y a eu un cass de harcelement de l'un des membres ud projet au sein du laboratoire donc les autres ne viennent plus au bureau sauf la personne fautive. Cette salle est vouée à disparaitre via la fusion, à cause du faible usage. Les doctorantss peuvent aussi travailler à la bibliothèque du laboratoire george lefbre quand plus de place en salle des docs ou trop bruillant. Il y ausi la bibliothèqe michelet specialisé en histoire mais ouverte à tous et non pas à partir de L3 pour Geogrbes lefebvre. Il est aussi possible de travailler à la bibliothèque centrale meme si depuis quelques années elle est en travaux. 
@@ -74,9 +85,9 @@ La bibliothèque possède également des fonds plus spécifiques confiés soit p
 
 Deux collections de la bibliothèque ont obtenu le label CollEx, collection d’excellence : les fonds d’Histoire médiévale et d’Histoire économique, industrielle et des sciences.
 
-## Enseignement
+# L'Enseignement
 
-A la vue du guide des études d'histoire (pas archeo et histoire art). Il y a une place égale données aux quatre périodes historique. Il y a des ouvertures à l'art et à l'archeo médiéviévale. 
+A la vue du guide des études du parcours Histoire, il y a une place égale données aux quatre périodes historique. Je ne parle pas ici de l'histoire de l'art et l'archéologie qui ont sont regroupé sous un même parcours. 
 
 En L1, un cours de Haut Moyen Âge (Vᵉ–XIᵉ siècle), comprenant un CM et un TD, est proposé au second semestre ; il relève du bloc 1, « Interpréter le matériau historique en fonction des représentations de ceux qui l’ont produit », ainsi que du bloc 2, « Exploiter des sources historiques et des productions scientifiques ». Dans le bloc 4, « Construire et valoriser sa formation en histoire », le sous-bloc 3 consacré à la lecture et à l’écriture de l’histoire offre plusieurs enseignements : Femmes et pouvoir au Moyen Âge (Vᵉ–XVᵉ siècle), Les populations médiévales et leur environnement (Vᵉ–XIIᵉ siècle), Les royaumes du Nord au Haut Moyen Âge et Matrimoine et richesse des femmes (XIIIᵉ – début XVIᵉ siècle). Le sous-bloc 2, intitulé « Ouverture pluridisciplinaire », propose notamment Les Carolingiens : politique et culture au service de Dieu (VIIIᵉ–IXᵉ siècles) et Les objets du Moyen Âge dans les musées.
 
@@ -85,8 +96,7 @@ En L2, au premier semestre, un CM et un TD de Bas Moyen Âge intitulé « L’Eu
 En Licence 3, les étudiants doivent suivre les quatre périodes historiques de l’année en CM et TD, mais peuvent choisir entre quatre thèmes spécifiques pour la période médiévale : « Église et pouvoir en France et en Germanie au Moyen Âge central (IXᵉ–XIIᵉ siècles) », « Temps mesuré, temps pensé, temps vécu à la fin du Moyen Âge (XIVᵉ–XVᵉ siècles) », « La Flandre médiévale » et « Justice de Dieu et justices des hommes (Vᵉ–XVᵉ siècle) ». Comme dans les autres années, le CM relève du bloc « Interpréter le matériau historique en fonction des représentations de ceux qui l’ont produit », tandis que le TD appartient au bloc 3, « Exprimer et transmettre un contenu historique à l’écrit et à l’oral ». Dans le bloc 2, « Exploiter des sources historiques et des productions scientifiques », les étudiants peuvent également suivre Paléographie médiévale et Sources du Haut Moyen Âge. Enfin, le bloc 3 propose dans son sous-bloc 2 Littérature médiévale et Le Moyen Âge dans les arts du XIXᵉ siècle, et dans son sous-bloc 3 les cours « Femmes et pouvoir (XIIIᵉ–XVᵉ siècle) » et « Les cours princières au Moyen Âge ».
 
 ### Master 
-
-Le master est un parcours trans-période permettant d’étudier les trois grandes périodes historiques du laboratoire, avec des enseignements communs et d’autres spécifiques. En général, deux séminaires différents sont proposés par période ; pour la médiévale, il s’agit actuellement de « Temps et espaces du pouvoir en Europe du Nord-Ouest » (Bas Moyen Âge) et de « Histoire culturelle et religieuse, Ve-XIIIe siècle ». En M1 S1, les étudiants choisissent une option d’outils de la recherche (paléographie ou latin médiéval), complétée par une initiation obligatoire à l’archivistique. Au M1 S2, l’archivistique disparaît et une nouvelle option apparaît : l’archéologie (incluant de la médiévale), tout en conservant le choix entre paléographie et latin médiéval, mais toujours pour un seul enseignement à inscrire. En M2 S1, les cours magistraux sont maintenus et un unique outil de la recherche doit être sélectionné, tandis qu’en M2 S2 seul le séminaire de médiévale est conservé. Enfin, sur l’ensemble des deux années, un séminaire d’histoire européenne, dispensé en français et en anglais, est proposé et aborde ponctuellement des thématiques médiévales.
+Pour faire de l'histoire médiévale, les masterant doivent candidater pour le Master histoire européenne. Il existe un master spécifique pour l'antiquité intitulé mondes anciens. Le master est un parcours trans-période permettant d’étudier l'époque médiévale, l'époque moderne et l'époque contemporaine avec des enseignements communs et d’autres plus spécifiques à chacunes des périodes. En général, deux séminaires différents sont proposés par période ; pour la médiévale, il s’agit actuellement de « Temps et espaces du pouvoir en Europe du Nord-Ouest » (Bas Moyen Âge) et de « Histoire culturelle et religieuse, Ve-XIIIe siècle ». En M1 S1, les étudiants choisissent une option d’outils de la recherche (paléographie ou latin médiéval), complétée par une initiation obligatoire à l’archivistique. Au M1 S2, l’archivistique disparaît et une nouvelle option apparaît : l’archéologie (incluant de la médiévale), tout en conservant le choix entre paléographie et latin médiéval, mais toujours pour un seul enseignement à inscrire. En M2 S1, les cours magistraux sont maintenus et un unique outil de la recherche doit être sélectionné, tandis qu’en M2 S2 seul le séminaire de médiévale est conservé. Enfin, sur l’ensemble des deux années, un séminaire d’histoire européenne, dispensé en français et en anglais, est proposé et aborde ponctuellement des thématiques médiévales.
 
 
 
