@@ -77,9 +77,13 @@ Il y a actuellement 13 doctorants en histoire médiévale à Lille sur les 65 do
 
 Les doctorants possèdent une salle commune qui se trouve dans le couloir du laboratoire. (Je suis en train de calculer le taux de présence des médiévistes par rapport au reste). Il existe aussi une salle de travaille specifique pour les médiévisstes seul, la salle synergia dan le couloir du laboratoire. Elle est reservé aux médiévistes du projet Sinergia. Elle est occupé que un seul doctorant principalement. Au début de l'année 2024 elle était beaucoup plus utilisée mais il y a eu un cass de harcelement de l'un des membres ud projet au sein du laboratoire donc les autres ne viennent plus au bureau sauf la personne fautive. Cette salle est vouée à disparaitre via la fusion, à cause du faible usage. Les doctorantss peuvent aussi travailler à la bibliothèque du laboratoire george lefbre quand plus de place en salle des docs ou trop bruillant. Il y ausi la bibliothèqe michelet specialisé en histoire mais ouverte à tous et non pas à partir de L3 pour Geogrbes lefebvre. Il est aussi possible de travailler à la bibliothèque centrale meme si depuis quelques années elle est en travaux. 
 
-## La bibliothèque George lefebvre 
+## Les bibliothèques
 
-Depuis, des collections se sont développées autour de thématiques plus spécifiques au laboratoire grâce à des crédits provenant de divers contrats obtenus par des enseignants-chercheurs du laboratoire (IUF, ANR…) ou par la bibliothèque (CNL, CollEx,…) comme le Haut Moyen Âge, la Première Guerre mondiale, l’Histoire des femme, les Cultures visuelles, la Mode…
+Il existe trois bibliothèque dans le laboratoire : Georges Lefebvre / Sciences de l'Antiquité / Vandier. Seule Georges Lefebvre contient de la médiévale. Les autres réservés à l'antiquité. Il y a donc une importance de l'antiquité mais cela vient de la fusion récente. A voir comment les choses évoluent.
+
+Pour ce qui est de la bibliothèque Georges Lefebvre. 
+
+À l’origine, la bibliothèque a bénéficié des fonds de deux historiens, Georges Espinas (médiéviste) et Georges Lefebvre (moderniste). Depuis, des collections se sont développées autour de thématiques plus spécifiques au laboratoire grâce à des crédits provenant de divers contrats obtenus par des enseignants-chercheurs du laboratoire (IUF, ANR…) ou par la bibliothèque (CNL, CollEx,…) comme le Haut Moyen Âge, la Première Guerre mondiale, l’Histoire des femme, les Cultures visuelles, la Mode…
 
 La bibliothèque possède également des fonds plus spécifiques confiés soit par des institutions, soit par des enseignants-chercheurs comme le Fonds de la Société industrielle du Nord, le Fonds du Théâtre Populaire des Flandres, les Fonds Pierre Deyon, Emmanuel Chadeau, Alain Derville et plus récemment le Fonds Marc de Ferrière sur l’histoire industrielle ou le fonds Nicole Reynaud sur les enluminures.
 
