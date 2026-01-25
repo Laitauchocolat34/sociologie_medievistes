@@ -79,11 +79,13 @@ Les doctorants possèdent une salle commune qui se trouve dans le couloir du lab
 
 ## Les bibliothèques
 
-Il existe trois bibliothèque dans le laboratoire : Georges Lefebvre / Sciences de l'Antiquité / Vandier. Seule Georges Lefebvre contient de la médiévale. Les autres réservés à l'antiquité. Il y a donc une importance de l'antiquité mais cela vient de la fusion récente. A voir comment les choses évoluent.
+Il existe trois bibliothèque dans le laboratoire HARTIS : Georges Lefebvre / Sciences de l'Antiquité / Vandier. Seule la bibliothèque Georges Lefebvre contient des ouvrages d'histoire médiévale. Les autres bibliothèques sont réservées à l'Antiquité. Il y a donc une importance de cette dernière période au sein des bibliothèque mais cela vient de la fusion récente. A voir comment les choses évoluent.
 
-Pour ce qui est de la bibliothèque Georges Lefebvre. 
+Pour ce qui est de la bibliothèque Georges Lefebvre. À l’origine, elle a bénéficié des fonds de deux historiens, Georges Espinas (médiéviste) et Georges Lefebvre (moderniste) ce qui encre déjà une certaine identité à la bibliothèque. Depuis, des collections se sont développées autour de thématiques plus spécifiques au laboratoire grâce à des crédits provenant de divers contrats obtenus par des enseignants-chercheurs du laboratoire (IUF, ANR…) ou par la bibliothèque (CNL, CollEx,…) comme le Haut Moyen Âge, la Première Guerre mondiale, l’Histoire des femme, les Cultures visuelles, la Mode…
 
-À l’origine, la bibliothèque a bénéficié des fonds de deux historiens, Georges Espinas (médiéviste) et Georges Lefebvre (moderniste). Depuis, des collections se sont développées autour de thématiques plus spécifiques au laboratoire grâce à des crédits provenant de divers contrats obtenus par des enseignants-chercheurs du laboratoire (IUF, ANR…) ou par la bibliothèque (CNL, CollEx,…) comme le Haut Moyen Âge, la Première Guerre mondiale, l’Histoire des femme, les Cultures visuelles, la Mode…
+
+En terme d'archives, la bibliothèque possède 7 fonds dit "spécifiques" mais aucun d'entre eux ne concerne la période médiévale. Les sources médiévales locales se trouve dans les bibliothèques municipales, départementales, régionales même si l'on peut noter la présence de quelques documents "emprunté" par un ancien médiéviste de l'université Alain derville. Ce dernier fait partie des 5 enseignant-chercheurs dont les archives sont conservé dans la bibliothèque George Lefebvre et le seul médiéviste de ce groupe. 
+
 
 La bibliothèque possède également des fonds plus spécifiques confiés soit par des institutions, soit par des enseignants-chercheurs comme le Fonds de la Société industrielle du Nord, le Fonds du Théâtre Populaire des Flandres, les Fonds Pierre Deyon, Emmanuel Chadeau, Alain Derville et plus récemment le Fonds Marc de Ferrière sur l’histoire industrielle ou le fonds Nicole Reynaud sur les enluminures.
 
