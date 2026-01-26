@@ -86,8 +86,12 @@ Pour ce qui est de la bibliothèque Georges Lefebvre. À l’origine, elle a bé
 
 En terme d'archives, la bibliothèque possède 7 fonds dit "spécifiques" mais aucun d'entre eux ne concerne la période médiévale. Les sources médiévales locales se trouve dans les bibliothèques municipales, départementales, régionales même si l'on peut noter la présence de quelques documents "emprunté" par un ancien médiéviste de l'université Alain derville. Ce dernier fait partie des 5 enseignant-chercheurs dont les archives sont conservé dans la bibliothèque George Lefebvre et le seul médiéviste de ce groupe. 
 
+## Les programmes de recherche
 
-# L'Enseignement
+Dans les projets actuels. Il y en a trois sur 12 qui portent sur de la médiévale. Sur les projets passés. il y en a 1 sur 11. Pour les projets numériques il y en a 3 ur 11. 
+tx participation aux projet en fonction prof. 
+
+# L'Enseignement de l'histoire médiévale aux étudiants
 
 ## Licence
 A la vue du guide des études du parcours Histoire, il y a une place égale données aux quatre périodes historique. Je ne parle pas ici de l'histoire de l'art et l'archéologie qui ont sont regroupé sous un même parcours. 
