@@ -75,8 +75,7 @@ Il n'y a pas de bases de données qui porte sur de la médiévale actuellement. 
 
 ## Les programmes de recherche
 
-Dans les projets actuels. Il y en a trois sur 12 qui portent sur de la médiévale. Sur les projets passés. il y en a 1 sur 11. Pour les projets numériques il y en a 3 ur 11. 
-tx participation aux projet en fonction prof. 
+Dans les projets actuels. Il y en a trois sur 12 qui portent sur de la médiévale. Sur les projets passés. il y en a 1 sur 11. Pour les projets numériques il y en a 3 ur 11. La promotrice principale en terme de projets de recherche est Elodie desjardins. 
 
 
 
