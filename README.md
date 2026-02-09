@@ -62,10 +62,9 @@ Je n'ai pas eu des informations sur les mandatures précédentes pour le moment.
 
 ## Les titulaires 
 
-Dan le labo Hartis. Il y a 3 titulaires CNRS dont 1 médiéviste soit 33% de médiéviste. Emerite 3/12 soit %. permanent 12/78 soit %. Je n'ai pas infos sur les honoraires. 
+Dans le laboratoire Hartis, on compte trois titulaires CNRS, dont un médiéviste, ce qui représente 33 % des titulaires. Parmi les membres émérites, 3 sur 12 occupent cette catégorie, tandis que 12 postes permanents sur 78 sont en place. Je n’ai pas d’informations concernant les membres honoraires.
 
-Dans l'ancine labo avant la fuion. Il y a 12 médiévistes parmis les 53 titulaires ce qui fait 22%. Pour ce qui est des émérite il y en a 4/10. Pour les membres honoraires 9 sur 19 soit 47%. pour les postes CNRS 1/2 soit 50%
-
+Avant la fusion, dans l’ancien laboratoire Irhis, 12 médiévistes étaient présents parmi les 53 titulaires, soit 22 %. Parmi les membres émérites, 4 sur 10 relevaient de cette catégorie. Les membres honoraires étaient au nombre de 9 sur 19, représentant 47 % du total. Enfin, les postes CNRS comptaient 1 sur 2, soit 50 %.
 
 ## Les doctorants 
 
@@ -73,7 +72,7 @@ Dans l'ancine labo avant la fuion. Il y a 12 médiévistes parmis les 53 titulai
 Pour les post-doctorant, il y en a 5 en tout dont 3 médiéviste ce qui donne 60 % de représentation. En terme de doctorant / en ater 3/15. 
 
 
-Il y a actuellement 13 doctorants en histoire médiévale à Lille sur les 65 doctorants ce qui représente 20% des doctorants. Depuis 206 il y a eu 171 docteur au sein du laboratoire et sur ce pool 52 médiéviste ce qui correspond à 30%. Pour ce qui est des post-doc il y a 1 médiéviste sur les 3 ce qui fait 33%. Aucun médiéviste n'est présent en co-direction. 
+Dans l'ancien laboratoire (IRHIS) il y avait 13 doctorants en histoire médiévale à Lille sur les 65 doctorants ce qui représentait 20% des doctorants. Depuis 2006 il y a eu 171 docteur au sein du laboratoire et sur ce pool 52 médiéviste ce qui correspond à 30%. Pour ce qui est des post-doc il y a 1 médiéviste sur les 3 ce qui fait 33%. 
 
 Les doctorants possèdent une salle commune qui se trouve dans le couloir du laboratoire. (Je suis en train de calculer le taux de présence des médiévistes par rapport au reste). Il existe aussi une salle de travaille specifique pour les médiévisstes seul, la salle synergia dan le couloir du laboratoire. Elle est reservé aux médiévistes du projet Sinergia. Elle est occupé que un seul doctorant principalement. Au début de l'année 2024 elle était beaucoup plus utilisée mais il y a eu un cass de harcelement de l'un des membres ud projet au sein du laboratoire donc les autres ne viennent plus au bureau sauf la personne fautive. Cette salle est vouée à disparaitre via la fusion, à cause du faible usage. Les doctorantss peuvent aussi travailler à la bibliothèque du laboratoire george lefbre quand plus de place en salle des docs ou trop bruillant. Il y ausi la bibliothèqe michelet specialisé en histoire mais ouverte à tous et non pas à partir de L3 pour Geogrbes lefebvre. Il est aussi possible de travailler à la bibliothèque centrale meme si depuis quelques années elle est en travaux. 
 
