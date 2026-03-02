@@ -52,9 +52,9 @@ Je n'ai pas eu des informations sur les mandatures précédentes pour le moment.
 
 ## Les titulaires 
 
-Au sein du laboratoire HARTIS, on compte trois titulaires CNRS, dont un médiéviste, soit environ 33 % des titulaires. Parmi les membres émérites, trois sur douze sont médiévistes soit 25%. Les médiévistes occupent douze postes permanents sur un total de soixante-dix-huit soit 15%. En revanche, je ne dispose pas d’informations concernant la répartition des membres honoraires.
+Au sein du laboratoire HARTIS, on compte trois titulaires CNRS, dont un médiéviste, soit environ 33 % des titulaires. Parmi les membres émérites, trois sur douze sont médiévistes soit 25%. Les médiévistes occupent quinze postes permanents sur un total de soixante-dix-huit soit environ 19%. En revanche, je ne dispose pas d’informations concernant la répartition des membres honoraires.
 
-Avant la fusion, l’ancien laboratoire IRHIS comptait 12 médiévistes parmi les 53 titulaires, soit environ 22 %. Parmi les membres émérites, 4 sur 10 étaient médiévistes, soit 40 %. Les membres honoraires comprenaient 9 médiévistes sur un total de 19, ce qui représentait environ 47 %. Enfin, les postes CNRS comptaient 1 médiéviste sur 2, soit 50 %.
+Avant la fusion, l’ancien laboratoire IRHIS comptait 15 médiévistes parmi les 53 titulaires, soit environ 28 %. Parmi les membres émérites, 4 sur 10 étaient médiévistes, soit 40 %. Les membres honoraires comprenaient 9 médiévistes sur un total de 19, ce qui représentait environ 47 %. Enfin, les postes CNRS comptaient 1 médiéviste sur 2, soit 50 %.
 
 ## Les doctorants/post-doctorants 
 
